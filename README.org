@@ -1,0 +1,4 @@
+#+title: README
+
+This is a collection of scripts written for BSPWM to incorporate with
+Emacs, Alacritty and Qutebrowser with single or dual monitor setup.
