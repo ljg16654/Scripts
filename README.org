@@ -1,5 +1,7 @@
 #+title: README
 
-This is a collection of scripts written for BSPWM to incorporate with
-Emacs, Alacritty and Qutebrowser.
-The scripts are usually bound to specific keys with =sxhd=.
+This is a collection of scripts written for to incorporate with
+Dmenu, Emacs, Alacritty and Qutebrowser. 
+Currently I'm using BSPWM, so most of them utilize =bspc= to obtain
+information about windows and desktops. The scripts that do not
+require command line arguments are usually bound to keys with =sxhd=.
