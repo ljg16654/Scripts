@@ -3,5 +3,6 @@
 This is a collection of scripts written for my windows manager to
 incorporate with Dmenu, Emacs, Alacritty and Qutebrowser.  Currently
 I'm using BSPWM, so most of them utilize =bspc= to obtain information
-about windows and desktops. The scripts that do not require command
-line arguments are usually bound to keys with =sxhd=.
+about windows and desktops and manipulate them. The scripts that do
+not require command line arguments are usually bound to keys with
+=sxhd=.
