@@ -1,4 +1,5 @@
 #+title: README
 
 This is a collection of scripts written for BSPWM to incorporate with
-Emacs, Alacritty and Qutebrowser with single or dual monitor setup.
+Emacs, Alacritty and Qutebrowser.
+The scripts are usually bound to specific keys with =sxhd=.
