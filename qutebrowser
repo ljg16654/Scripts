@@ -1,0 +1,4 @@
+#!/bin/sh
+
+QUTEBROWSER_SRC_DIR=~/src/qutebrowser
+$QUTEBROWSER_SRC_DIR/.venv/bin/python3 -m qutebrowser "$@"
